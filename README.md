@@ -5,14 +5,14 @@ OMSAS (OMSAS is Microsoft Store Add-on Script)
 
 ## Supported Versions
 
-| Compatibility        |   |
-|----------------------|---|
+| Compatibility        |🔄 |
+|----------------------|----|
 | Windows 11 HOME/PRO  | ✓ |
 | Windows 10 HOME/PRO  | ✓ |
 | Windows 10 LTSC 2021 | ✓ |
 | Windows 10 LTSC 2019 | ✓ |
 | Windows 10 LTSB 2016 | ✓ |
-| Windows 10 LTSB 2015 | ✓ |
+| Windows 10 LTSB 2015 | ✘ |
 
 ## Usage
 ```powershell
