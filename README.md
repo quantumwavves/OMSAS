@@ -2,7 +2,7 @@
 OMSAS (OMSAS is Microsoft Store Add-on Script)
 
 ## What is?
-
+OMSAS is a script that automates the installation of the microsoft store in LTSC/LTSB and Windows 10-11 Home / Pro versions.
 ## Supported Versions
 
 | Compatibility        |🔄 |
